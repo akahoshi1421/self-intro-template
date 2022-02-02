@@ -4,4 +4,4 @@
 Hiroki Akahoshi
 
 ## tasks
-aaa
+- 拡張機能の開発
